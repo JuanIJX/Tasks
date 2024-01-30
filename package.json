@@ -1,0 +1,21 @@
+{
+  "name": "@ijx/tasks",
+  "version": "1.0.0",
+  "description": "Task manager",
+  "author": "JuanIJX",
+  "main": "index.js",
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JuanIJX/tasks.git"
+  },
+  "homepage": "https://github.com/JuanIJX/tasks#readme",
+  "bugs": {
+    "url": "https://github.com/JuanIJX/tasks/issues"
+  },
+  "keywords": [ "Task" ],
+  "license": "ISC",
+  "dependencies": {
+    "@ijx/utils": "^1.1.3"
+  }
+}
